@@ -1,0 +1,7 @@
+{
+    "last-edited": "20140705", 
+    "description": "Applet que verifica e informa la recepcion de nuevos correos en tu cuenta de Gmail, basado en Gmail Notifier.", 
+    "version": "0.3", 
+    "uuid": "gmailNotify@danielsr", 
+    "name": "Gmail Notify"
+}
